@@ -1,0 +1,18 @@
+<svg width="34" height="34" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+ <title>Unity</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Page">
+   <g fill-rule="nonzero" fill="#FFFFFF" id="game_unity-copy">
+    <path fill="#c8ff00" id="Shape" d="m26.92903,26.04839l-5.38064,-9.05807l5.38064,-9.05806l2.59355,9.05806l-2.59355,9.05807zm-11.99032,-0.87097l-6.76452,-6.71613l10.75162,0l5.38064,9.05806l-9.36774,-2.34193zm0,-16.37419l9.36774,-2.34194l-5.38064,9.05806l-10.75162,0l6.76452,-6.71612zm13.76129,-6.80323l-12.24194,3.19355l-1.80967,3.10645l-3.67742,-0.02903l-8.97097,8.71935l8.96129,8.71936l3.67742,-0.02903l1.81935,3.10645l12.24194,3.19355l3.28065,-11.90323l-1.86775,-3.0871l1.86775,-3.08709l-3.28065,-11.90323z"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="34" height="34" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+ <title>Mobile</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Page">
+   <g fill="#FFFFFF" id="game_mobile-copy">
+    <path fill="#c8ff00" id="Shape" d="m21.907727,31.68125l-9.268636,0c-2.558182,0 -4.639091,-2.034375 -4.639091,-4.55625l0,-20.56875c0,-2.5125 2.080909,-4.55625 4.639091,-4.55625l9.268636,0c2.558182,0 4.639091,2.04375 4.639091,4.55625l0,20.56875c0,2.521875 -2.080909,4.55625 -4.639091,4.55625zm2.061819,-26.8125l-13.392273,0l0,19.565625l13.392273,0l0,-19.565625zm-6.70091,21.5625c-0.906818,0 -1.651363,0.721875 -1.651363,1.621875c0,0.890625 0.735,1.621875 1.651363,1.621875c0.906819,0 1.651364,-0.721875 1.651364,-1.621875c0,-0.9 -0.735,-1.621875 -1.651364,-1.621875z"/>
+   </g>
+  </g>
+ </g>
+</svg>
